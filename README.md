@@ -1,1 +1,1 @@
-# Kod jos uvek ne radi, kod u pripremi
+# Kod jos uvek ne radi, program u pripremi
